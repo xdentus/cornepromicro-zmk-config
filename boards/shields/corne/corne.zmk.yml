@@ -2,8 +2,8 @@ file_format: "1"
 id: corne
 name: Corne
 type: shield
-url:
-requires: [pro_micro]
+url: https://github.com/Bastardkb/TBK-Mini
+requires: [Nice!Nano]
 features:
   - keys
   - studio
